@@ -1,0 +1,4 @@
+baseURL = "https://vetal4eg.github.io/"
+languageCode = "en-us"
+title = "Hello"
+theme = "kube" 
